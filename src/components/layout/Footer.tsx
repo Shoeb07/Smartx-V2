@@ -95,13 +95,13 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <Mail size={15} className="text-[#6c63ff] mt-0.5 shrink-0" />
                 <a href="mailto:hello@smartxsolutions.in" className="text-sm text-white/50 hover:text-white transition-colors">
-                  hello@smartxsolutions.in
+                  business@smartxsolutions.in
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <Phone size={15} className="text-[#6c63ff] mt-0.5 shrink-0" />
                 <a href="tel:+91" className="text-sm text-white/50 hover:text-white transition-colors">
-                  +91 000 000 0000
+                  +91 9100590377
                 </a>
               </li>
               <li className="flex items-start gap-3">
