@@ -15,7 +15,7 @@ const projects = [
     id: 1,
     title: "AG Traders",
     category: "Manufacturing · Web App",
-    year: "2024",
+    year: "2026",
     description:
       "A full-featured business website for AG Traders — a Palghar-based manufacturer of fencing wire, chain link, barbed wire, and galvanized iron products. Built to showcase product range, drive enquiries, and establish digital presence.",
     tags: ["Next.js", "Tailwind CSS", "Responsive Design", "SEO"],
@@ -37,7 +37,7 @@ const projects = [
     id: 2,
     title: "Scholarship Management App",
     category: "EdTech · Web Application",
-    year: "2024",
+    year: "2026",
     description:
       "A comprehensive scholarship portal enabling students to discover, apply, and track scholarship opportunities — and administrators to manage applications, review submissions, and communicate outcomes efficiently.",
     tags: ["React", "Node.js", "MongoDB", "Firebase Auth"],
@@ -59,7 +59,7 @@ const projects = [
     id: 3,
     title: "FurneXo",
     category: "India's First Furniture Exchnage Platform ",
-    year: "2024",
+    year: "2025",
     description:
       "FurneXo is India’s first furniture exchange platform, enabling users to buy, sell, or swap furniture seamlessly. It promotes affordability and sustainability by giving pre-owned furniture a second life.",
     tags: ["React", "Node.js", "MongoDB", "Firebase Auth"],
@@ -110,7 +110,7 @@ const projects = [
     id: 6,
     title: "SmartX Solutions Website",
     category: "Agency · Marketing Site",
-    year: "2025",
+    year: "2023",
     description:
       "Our own agency website — designed and built in-house to Phenomenon Studio standards. Cinematic animations, full SEO, particle canvas, magnetic interactions, and a contact system that converts.",
     tags: ["Next.js 15", "Framer Motion", "Tailwind CSS", "TypeScript"],
@@ -132,7 +132,7 @@ const projects = [
     id: 4,
     title: "More Projects Coming",
     category: "Various · In Pipeline",
-    year: "2025",
+    year: "",
     description:
       "We're currently taking on new projects across web apps, mobile applications, e-commerce, and SaaS platforms. Every project we take on gets the same cinematic quality treatment.",
     tags: ["Your Stack Here", "Your Vision Here"],
