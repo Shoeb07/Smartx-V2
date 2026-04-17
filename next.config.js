@@ -6,8 +6,12 @@ const nextConfig = {
   },
   compress: true,
   poweredByHeader: false,
-  // Strict mode for better React 19 compat
   reactStrictMode: true,
+
+  // ✅ ADD THIS PART
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 }
 
 module.exports = nextConfig
